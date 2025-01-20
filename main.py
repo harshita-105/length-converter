@@ -59,7 +59,7 @@ entr.pack(pady=18)
 
 lngth = customtkinter.CTkScrollableFrame(main,
                                          orientation="vertical",
-                                         label_text="Length",
+                                         label_text="Length converter",
                                          label_fg_color="#5ad6ec",
                                          label_text_color="black")
 lngth.pack(pady=18)
